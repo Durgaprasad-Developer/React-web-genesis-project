@@ -41,3 +41,26 @@ The React Web Genesis Project is designed to help you stay organized and focused
 If you wish to try out the live version, you can access it here: [Deployed Link](Yhttps://react-web-genesis-project.vercel.app/)
 
 ## Screenshots
+Dashboard
+![image](https://github.com/user-attachments/assets/8fbf907d-4b03-4858-af57-67bb132032f8)
+
+Assignment page
+![image](https://github.com/user-attachments/assets/a5d82282-4365-4f68-b554-c8d00229f2c0)
+
+Resource Page 
+![image](https://github.com/user-attachments/assets/6bc80fbd-c6d8-452e-b3c6-b52a2cf9a244)
+
+Study Timer 
+![image](https://github.com/user-attachments/assets/0ec93315-58ba-47a2-990e-85c1f0d59744)
+
+Notes
+![image](https://github.com/user-attachments/assets/8ce2bafd-8d0e-49b4-bf5d-57603eb89d39)
+
+Courses (add Courses)
+![image](https://github.com/user-attachments/assets/84bdbb1c-3d3f-410a-acb6-da270fc33654)
+
+
+
+
+
+

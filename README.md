@@ -38,7 +38,7 @@ The React Web Genesis Project is designed to help you stay organized and focused
 5. Visit `http://localhost:3000` to see the project running locally.
 
 ### Deployed Version
-If you wish to try out the live version, you can access it here: [Deployed Link](Your-Deployed-Link)
+If you wish to try out the live version, you can access it here: [Deployed Link](Yhttps://react-web-genesis-project.vercel.app/)
 
 ## Screenshots
 (Optional: If you have any screenshots of the project, you can upload them here.)

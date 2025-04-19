@@ -41,6 +41,3 @@ The React Web Genesis Project is designed to help you stay organized and focused
 If you wish to try out the live version, you can access it here: [Deployed Link](Yhttps://react-web-genesis-project.vercel.app/)
 
 ## Screenshots
-(Optional: If you have any screenshots of the project, you can upload them here.)
-```
-

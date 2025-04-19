@@ -44,4 +44,3 @@ If you wish to try out the live version, you can access it here: [Deployed Link]
 (Optional: If you have any screenshots of the project, you can upload them here.)
 ```
 
-When you paste this into your README file on GitHub or any platform supporting markdown, the headings will be bold, and other sections will be properly formatted. Just replace `yourusername` and `your-repo-name` with your actual GitHub username and repository name, and add the deployed link if available.

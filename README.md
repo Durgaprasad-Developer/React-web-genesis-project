@@ -1,55 +1,57 @@
-# React + TypeScript + Vite
+React Web Genesis Project
+Description
+The React Web Genesis Project is designed to help you stay organized and focused while managing your study tasks. It provides an intuitive dashboard to keep track of assignments, resources, study time, and courses. It also features a Pomodoro timer to help you maintain focus during your study sessions. Additionally, you can write notes, add assignments, and store research papers, all within a single platform.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+Dashboard: Displays all key information including pending assignments, study time, and enrolled courses.
 
-Currently, two official plugins are available:
+Assignments: A page to add and track your assignments with deadlines and priorities.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Resources: Allows you to add and manage research papers and other resources related to your courses.
 
-## Expanding the ESLint configuration
+Pomodoro Timer: Focus timer to help you stay on task and take effective breaks.
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+Notes: Write, store, and organize your notes for easy reference.
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+Course Management: Add and track the courses you are enrolled in.
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+Tech Stack
+Frontend: React (using TypeScript for better scalability and production stability)
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+Styling: Tailwind CSS
 
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
-# React-web-genesis-project
+Build Tool: React with TSX
+
+Deployment: Deployed online (provide the link if needed)
+
+Setup Instructions
+Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/your-repo-name.git
+Navigate into the project directory:
+
+bash
+Copy
+Edit
+cd your-repo-name
+Install dependencies: If you haven’t installed the dependencies, run:
+
+bash
+Copy
+Edit
+npm install
+Run the development server:
+
+bash
+Copy
+Edit
+npm start
+Visit http://localhost:3000 to see the project running locally.
+
+Deployed Version
+If you wish to try out the live version, you can access it here: Deployed Link
+
+Screenshots
